@@ -18,6 +18,8 @@ public class HW8_1 {
 
     public static void main(String[] args) {
 
+
+
         task(1);
 
         /** № 1.
